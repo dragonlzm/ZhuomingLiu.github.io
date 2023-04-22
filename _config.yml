@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoming Liu's Personal Website"
+title                    : "Zhuoming Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Zhuoming (Zoom) Liu"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HXOVwRAAAAAJ&hl=en"
-  email            :
+  email            : "liuzhuom@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@dragonlzm1"
+  twitter          : #"@dragonlzm1"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "https://drive.google.com/file/d/1CYOwvdLCt0t6yvNsHZUJu2MGe6nAXkuQ/view?usp=sharing"
 
 
 # Reading Files
