@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am a student of Master of Science in Computer Science at the University of Southern California(USC). I am a research assistant at USC IRIS computer vision Lab, supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before joining USC, I spent a wonderful year at [SenseTime Research](https://www.sensetime.com/en). Previously, I received a bachelor's Degree at Sun Yat-sen University.
-Research Interest: Vision-Languauage learning, Learning with Less Labeling
+
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.  
