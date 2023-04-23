@@ -19,11 +19,10 @@ Experience
 1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/)
 
 
-<div class="row">
-  <div class="column">
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width:20%">
-  </div>
-  <div class="column">
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 20%; margin-right: 20px;">
+  <div>
     <h2>Portfolio Item 1</h2>
     <p>Description of Portfolio Item 1.</p>
     <ul>
