@@ -14,8 +14,8 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 
-Publications
-======
+
+<h1 style="margin-bottom: 0.5em;">Publications</h1>
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;">
   <div>
@@ -29,7 +29,6 @@ Publications
     </ul> -->
   </div>
 </div>
-
 
 
 Experience
