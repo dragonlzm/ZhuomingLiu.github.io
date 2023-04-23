@@ -1,14 +1,13 @@
 ---
 layout: archive
 title: "CV"
-excerpt: "testing"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<a href="https://drive.google.com/file/d/1Hd9HAGmgxj8bxLgIn29x1q3RpRdk-L1t/view?usp=sharing">CV</a>
+<a href="https://drive.google.com/file/d/1Hd9HAGmgxj8bxLgIn29x1q3RpRdk-L1t/view?usp=sharing">My Curriculum Vitae</a>
 
 
 {% include base_path %}
