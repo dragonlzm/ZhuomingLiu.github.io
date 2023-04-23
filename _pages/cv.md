@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information and Computing Science, Sun Yat-sen University, 2016-2020
+* M.S. in Computer Science, University of Southern California, 2021-2023
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2021-05/2023: USC IRIS Computer Vision Lab
+  * Research assistant
+  * Supervisor: Professor Ram Nevatia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 07/2020-07/2021: SenseTime Research
+  * Research Intern
+  * Supervisor: Dr. Conghui He and Professor Jifeng Dai
+
+* 04/2019-06/2020: Institute of Big Data and Computing Intelligence, SYSU
+  * Research assistant
+  * Supervisor: Professor Changdong Wang
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
