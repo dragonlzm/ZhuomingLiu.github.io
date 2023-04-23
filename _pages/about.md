@@ -19,13 +19,14 @@ Publications
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 20%; margin-right: 20px;">
   <div>
-    <h2><a href="https://arxiv.org/abs/2303.12145">Portfolio Item 1</a></h2>
+    <h2><a href="https://arxiv.org/abs/2303.12145">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a></h2>
     <p>ArXiv Preprint 2023.</p>
-    <ul>
+    <p>Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
+    <!-- <ul>
       <li>Feature 1</li>
       <li>Feature 2</li>
       <li>Feature 3</li>
-    </ul>
+    </ul> -->
   </div>
 </div>
 
