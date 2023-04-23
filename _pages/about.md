@@ -15,18 +15,13 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 
-<h1 style="margin-bottom: 0.3em;">News</h1>
+<h1 style="margin-bottom: 0.2em;">News</h1>
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;">
   <div>
     <h2><a href="https://arxiv.org/abs/2303.12145">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a></h2>
     <p style="margin-bottom: 0.2em;">ArXiv Preprint 2023.</p>
     <p>Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
-    <!-- <ul>
-      <li>Feature 1</li>
-      <li>Feature 2</li>
-      <li>Feature 3</li>
-    </ul> -->
   </div>
 </div>
 
