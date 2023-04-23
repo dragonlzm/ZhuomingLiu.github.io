@@ -1,7 +1,7 @@
 ---
 title: "Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions"
 #excerpt: "Short description of portfolio item number 1<br/><img src='https://dragonlzm.github.io/zhuomingliu.github.io/images/500x300.png'>"
-excerpt: "Short description of portfolio item number <img src='https://dragonlzm.github.io/zhuomingliu.github.io/images/500x300.png' style='max-width: 20%; height: auto;'>"
+excerpt: "Short description of portfolio item number <img src='https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png' style='max-width: 20%; height: auto;'>"
 
 collection: portfolio
 ---
