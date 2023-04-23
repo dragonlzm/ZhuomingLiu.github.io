@@ -1,15 +1,7 @@
 ---
 title: "Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: "Short description of portfolio item number 1<br/><img src='images/500x300.png'>"
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](https://arxiv.org/abs/2303.12145)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
