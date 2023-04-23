@@ -19,8 +19,8 @@ Publications
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 20%; margin-right: 20px;">
   <div>
-    <h2>Portfolio Item 1</h2>
-    <p>Description of Portfolio Item 1.</p>
+    <h2><a href="https://arxiv.org/abs/2303.12145">Portfolio Item 1</a></h2>
+    <p>ArXiv Preprint 2023.</p>
     <ul>
       <li>Feature 1</li>
       <li>Feature 2</li>
