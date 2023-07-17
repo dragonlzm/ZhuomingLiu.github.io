@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a student of Master of Science in Computer Science at the University of Southern California(USC). Previously, I received a bachelor's Degree at Sun Yat-sen University(SYSU).
+I am a in coming Ph.D. student at University of Wisconsin-Madison.
+Previously, I obtained Master of Science in Computer Science at the University of Southern California (USC).  Before that I received my bachelor's Degree at Sun Yat-sen University (SYSU).
 
 My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.  
 
