@@ -28,7 +28,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 Experience
 ======
-1. **[2021.12-Now]** Research assistant at [USC IRIS computer vision Lab](https://sites.usc.edu/iris-cvlab/), supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). 
+1. **[2021.12-2023.05]** Research assistant at [USC IRIS computer vision Lab](https://sites.usc.edu/iris-cvlab/), supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). 
 1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/)
 
 
