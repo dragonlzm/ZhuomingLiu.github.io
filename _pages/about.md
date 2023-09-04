@@ -13,7 +13,7 @@ redirect_from:
 
 My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.   -->
 
-<p>I obtained a Master of Science in Computer Science at the University of Southern California (USC). Before that, I received my bachelor’s Degree at Sun Yat-sen University (SYSU).</p>
+<p>I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by professor Ram Nevatia. Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).</p>
 <p style="margin-bottom: 2em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p>
 
 <!-- <h1 style="margin-bottom: 0.2em;">News</h1>
