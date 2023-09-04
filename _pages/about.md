@@ -38,9 +38,22 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 
-Experience
+<!-- Experience
 ======
 1. **[2021.12-2023.05]** Research assistant at [USC IRIS computer vision Lab](https://sites.usc.edu/iris-cvlab/), supervised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). 
-1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/)
+1. **[2020.08-2021.07]** Research intern at [SenseTime Research](https://www.sensetime.com/en), supervised by Dr. [Conghui He](https://scholar.google.com/citations?user=PopTv7kAAAAJ&hl=en) and cooperated with Professor [Jifeng Dai](https://jifengdai.org/) -->
 
 
+<h1 id="experience">Experience</h1>
+<ol>
+    <li>
+        <strong>[2021.12-2023.05]</strong> Research assistant at 
+        <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, supervised by Professor 
+        <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
+    </li>
+    <li><strong>[2020.08-2021.07]</strong> Research intern at 
+        <a href="https://www.sensetime.com/en">SenseTime Research</a>, supervised by Dr. 
+        <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and cooperated with Professor 
+        <a href="https://jifengdai.org/">Jifeng Dai</a>
+    </li>
+</ol>
