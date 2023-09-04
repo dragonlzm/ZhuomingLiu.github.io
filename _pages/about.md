@@ -33,7 +33,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <div>
         <h2><a href="https://arxiv.org/abs/2303.12145" style="font-size: 18px;">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a>
         </h2>
-        <p style="margin-bottom: 0.2em; font-size: 15px;">ArXiv Preprint 2023.</p>
+        <p style="margin-bottom: 0.2em; font-size: 15px;">ArXiv Preprint 2023. | <a href="https://github.com/dragonlzm/EZSD/">code</a></p>
         <p style="font-size: 15px;">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
     </div>
 </div>

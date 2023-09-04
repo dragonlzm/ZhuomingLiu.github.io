@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoming Liu's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhuoming Liu"
 description              : &description "personal description"
