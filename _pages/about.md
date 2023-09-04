@@ -32,9 +32,9 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
     <div>
         <h2> Efficient Feature Distillation for Zero-shot Detection </h2>
-        <p style="font-size: 15px;">ArXiv Preprint 2023.</p>
-        <p style="font-size: 15px;">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
-        <p style="font-size: 15px;"> <a href="https://arxiv.org/abs/2303.12145">Paper </a> | <a href="https://github.com/dragonlzm/EZSD/"> Code</a> </p>
+        <p style="font-size: 15px; margin-bottom: -0.2em">ArXiv Preprint 2023.</p>
+        <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
+        <p style="font-size: 15px; "> <a href="https://arxiv.org/abs/2303.12145">Paper </a> | <a href="https://github.com/dragonlzm/EZSD/"> Code</a> </p>
     </div>
 </div>
 
