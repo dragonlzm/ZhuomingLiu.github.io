@@ -14,7 +14,7 @@ redirect_from:
 My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.   -->
 
 <p>I obtained a Master of Science in Computer Science at the University of Southern California (USC). Before that, I received my bachelor’s Degree at Sun Yat-sen University (SYSU).</p>
-<p style="margin-bottom: 10em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p>
+<p style="margin-bottom: 2em;">My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling. </p>
 
 <!-- <h1 style="margin-bottom: 0.2em;">News</h1>
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -27,8 +27,8 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 </div> -->
 
 <!--  -->
-<h1 style="margin-bottom: 10em;">News</h1>
-<div style="display: flex; flex-direction: row; align-items: center;"> 
+<h1>News</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;"> 
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
     <div>
         <h2><a href="https://arxiv.org/abs/2303.12145" style="font-size: 18px;">Zero-Shot Detection via Image-Language Knowledge Distillation on Weakly Supervised Regions</a>
