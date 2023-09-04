@@ -14,8 +14,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information and Computing Science, Sun Yat-sen University, 2016-2020
 * M.S. in Computer Science, University of Southern California, 2021-2023
+* B.S. in Information and Computing Science, Sun Yat-sen University, 2016-2020
+
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
