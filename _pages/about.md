@@ -15,7 +15,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 
-<h1 style="margin-bottom: 0.5em;">News</h1>
+<h1 style="margin-bottom: 0.2em;">News</h1>
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;">
   <div>
