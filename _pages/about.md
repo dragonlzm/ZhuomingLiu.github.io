@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,7 +27,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 </div> -->
 
 <!--  -->
-<h1>News</h1>
+<h1>Updates</h1>
 <div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;"> 
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
     <div>
