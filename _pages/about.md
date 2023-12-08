@@ -50,7 +50,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 <ol>
     <li>
         <strong>[2021.12-2023.05]</strong> Research assistant at 
-        <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, supervised by Professor 
+        <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, advised by Professor 
         <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
     </li>
     <li><strong>[2020.08-2021.07]</strong> Research intern at 
