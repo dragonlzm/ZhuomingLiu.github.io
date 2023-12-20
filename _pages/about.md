@@ -2,6 +2,9 @@
 permalink: /
 title: "About"
 excerpt: "About"
+header:
+  overlay_image: /assets/images/positional_embedding.png
+
 author_profile: true
 redirect_from: 
   - /about/
