@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhuoming Liu"
   avatar           : "new_profile.png"
-  bio              : "You can call me 'Zoom'! My Chinese name is: 刘卓名"
+  bio              : "You can call me 'Zoom'!"
+  biosec           : "My Chinese name is: 刘卓名 "
   location         : "Madison, WI, US"
   employer         :
   pubmed           : 
