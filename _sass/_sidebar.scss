@@ -124,7 +124,7 @@
 .author__bio1 {
   margin: 0;
 
-  @include breakpoint($large) {
+  @include breakpoint($medium) {
     margin-top: 10px;
     margin-bottom: 0px;
   }
@@ -134,7 +134,7 @@
 .author__bio2 {
   margin: 0;
 
-  @include breakpoint($large) {
+  @include breakpoint($medium) {
     margin-top: 0px;
     margin-bottom: 20px;
   }
