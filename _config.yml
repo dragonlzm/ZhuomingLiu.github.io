@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhuoming Liu"
   avatar           : "new_profile.png"
-  bio              : "You can call me 'Zoom'!\n\n My name in Chinese Charachters is: 刘卓名"
+  bio              : "You can call me 'Zoom'!"
   location         : "Madison, WI, US"
   employer         :
   pubmed           : 
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  #CV               : "https://drive.google.com/file/d/1CYOwvdLCt0t6yvNsHZUJu2MGe6nAXkuQ/view?usp=sharing"
+  CV               : "My name in Chinese Charachters is: 刘卓名"
 
 
 # Reading Files
