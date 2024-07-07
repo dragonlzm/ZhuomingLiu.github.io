@@ -21,8 +21,10 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 
 
 I am a first-year Ph.D. student in the Department of Computer Science, University of Wisconsin-Madison, advised by Professor [Yin Li](https://scholar.google.com/citations?hl=en&user=_y-8nrcAAAAJ&view_op=list_works&sortby=pubdate).
+
 I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Learning with Less Labeling.
+
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage learning, Video understanding.
 
 
 
