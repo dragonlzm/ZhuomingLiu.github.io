@@ -83,6 +83,6 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     <li><strong>[2020.08-2021.07]</strong> Research intern at 
         <a href="https://www.sensetime.com/en">SenseTime Research</a>, supervised by Dr. 
         <a href="https://scholar.google.com/citations?user=PopTv7kAAAAJ&amp;hl=en">Conghui He</a> and cooperated with Professor 
-        <a href="https://jifengdai.org/">Jifeng Dai</a>
+        <a href="https://jifengdai.org/">Jifeng Dai</a>.
     </li>
 </ol>
