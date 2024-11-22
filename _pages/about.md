@@ -60,6 +60,10 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 <h1 id="experience">Experience</h1>
 <ol>
     <li>
+        <strong>[2024.05-Now]</strong> Research assistant working with Professor 
+        <a href="https://www.biostat.wisc.edu/~yli/">Yin Li</a>.
+    </li>
+    <li>
         <strong>[2021.12-2023.05]</strong> Research assistant at 
         <a href="https://sites.usc.edu/iris-cvlab/">USC IRIS computer vision Lab</a>, advised by Professor 
         <a href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">Ram Nevatia</a>.
