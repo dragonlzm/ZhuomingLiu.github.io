@@ -24,7 +24,7 @@ I am a second-year Ph.D. student in the Department of Computer Science, Universi
 
 I obtained a Master of Science in Computer Science at the University of Southern California (USC), advised by Professor [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/). Before that, I received my bachelor’s degree at Sun Yat-sen University (SYSU).
 
-My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage Learning, Video Understanding.
+My research lies in Computer Vision and Machine Learning. I am particularly interested in Vision-Languauage Learning, Video Understanding. 
 
 
 <!-- <h1 style="margin-bottom: 0.2em;">News</h1>
@@ -38,7 +38,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 </div> -->
 
 <!--  -->
-<h1>Updates</h1>
+<!-- <h1>Updates</h1>
 <div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;"> 
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/EZSD.png" style="width: 30%; margin-right: 20px;" />
     <div>
@@ -47,7 +47,19 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
         <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu*, Xuefeng Hu*, Ram Nevatia</p>
         <p style="font-size: 15px; "> <a href="https://arxiv.org/abs/2303.12145">Paper</a> | <a href="https://github.com/dragonlzm/EZAD/">Code</a> </p>
     </div>
+</div> -->
+
+<h1>Updates</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 2em;"> 
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 30%; margin-right: 20px;" />
+    <div>
+        <h2> PAVe: Patching and Adapting Video Large Language Models </h2>
+        <!-- <p style="font-size: 15px; margin-bottom: -0.2em">IEEE/CVF Winter Conference on Applications of Computer Vision 2024 (WACV 2024).</p> -->
+        <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li </p>
+        <p style="font-size: 15px; "> <a href="https://drive.google.com/file/d/1x21sXxzkaF82EBOOH-k05WgbPPtwXNRg/view?usp=sharing">Paper</a></p>
+    </div>
 </div>
+
 
 
 
