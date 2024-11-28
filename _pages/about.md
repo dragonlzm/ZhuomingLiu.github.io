@@ -49,16 +49,17 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
     </div>
 </div> -->
 
-<h1>Updates</h1>
-<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 3em;"> 
-    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 30%; margin-right: 20px;" />
+<h1 style="margin-bottom: 10px;">Updates</h1>
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 1em;">
+    <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 36%; margin-right: 20px;" />
     <div>
-        <h2> PAVE: Patching and Adapting Video Large Language Models </h2>
-        <p style="font-size: 15px; margin-bottom: -0.2em">Under Review.</p>
-        <p style="font-size: 15px; margin-bottom: -0.2em">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li </p>
-        <p style="font-size: 15px; "> <a href="https://drive.google.com/file/d/1whMeSxRh1BiUlunBTz26-7MTjv2K7cRF/view?usp=sharing">Paper</a></p>
+        <h2>PAVE: Patching and Adapting Video Large Language Models</h2>
+        <p style="font-size: 15px; margin-bottom: -0.2em;">Under Review.</p>
+        <p style="font-size: 15px; margin-bottom: -0.2em;">Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li</p>
+        <p style="font-size: 15px;"><a href="https://drive.google.com/file/d/1whMeSxRh1BiUlunBTz26-7MTjv2K7cRF/view?usp=sharing">Paper</a></p>
     </div>
 </div>
+
 
 
 
