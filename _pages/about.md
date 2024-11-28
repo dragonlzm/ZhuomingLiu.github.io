@@ -50,7 +50,7 @@ My research lies in Computer Vision and Machine Learning. I am particularly inte
 </div> -->
 
 <h1>Updates</h1>
-<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 1em;"> 
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 3em;"> 
     <img src="https://dragonlzm.github.io/zhuomingliu.github.io/images/PAVE.png" style="width: 30%; margin-right: 20px;" />
     <div>
         <h2> PAVE: Patching and Adapting Video Large Language Models </h2>
