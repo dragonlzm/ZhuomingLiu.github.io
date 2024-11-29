@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* 05/2024-Now: Yin's Lab
+  * Research assistant
+  * Supervisor: Professor Yin Li
+
 * 12/2021-05/2023: USC IRIS Computer Vision Lab
   * Research assistant
   * Supervisor: Professor Ram Nevatia
